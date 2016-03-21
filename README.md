@@ -1,6 +1,8 @@
 Lorem Ipsum Generator
 =====================
 
+This is a fork of badcow's lorem ipsum generator [badcow/LoermIpsum](https://github.com/Badcow/LoremIpsum).
+
 Library for generating lorem ipsum text. Bonus Twig extension! This has been changed around a bit from the original [geecu/LoremIpsum](https://github.com/geecu/LoremIpsum).
 
 ## Build Status
