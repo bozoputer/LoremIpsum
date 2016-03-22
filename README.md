@@ -1,9 +1,8 @@
-Lorem Ipsum Generator
+Ok Computer/Lorem Ipsum Generator
 =====================
 
-This is a fork of badcow's lorem ipsum generator [badcow/LoremIpsum](https://github.com/Badcow/LoremIpsum).
+This is a fork of badcow's lorem ipsum generator [badcow/LoremIpsum](https://github.com/Badcow/LoremIpsum). Instead of generating the standard Lorem Ipsum text (e.g. "Lorem ipsum dolor sit amet...") with Latin words, it uses words from the lyrics of songs from Radiohead's album *Ok Computer*.
 
-Library for generating lorem ipsum text. Bonus Twig extension! This has been changed around a bit from the original [geecu/LoremIpsum](https://github.com/geecu/LoremIpsum).
 
 ## Build Status
 [![Build Status](https://travis-ci.org/Badcow/LoremIpsum.png)](https://travis-ci.org/Badcow/LoremIpsum)
