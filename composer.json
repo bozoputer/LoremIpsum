@@ -1,5 +1,5 @@
 {
-    "name": "badcow/lorem-ipsum",
+    "name": "ebo-one/lorem-ipsum",
     "description": "Lorem ipsum generator.",
     "license": "MIT",
     "authors": [
@@ -11,6 +11,10 @@
             "name": "Sam Williams",
             "email": "sam@badcow.co"
         }
+        {
+            "name": "E Boone",
+            "email": "e@ebo.one"
+        }
     ],
     "minimum-stability": "dev",
     "require": {
@@ -20,6 +24,6 @@
         "twig/twig": "Twig is a template language for PHP, released under the new BSD license (code and documentation)."
     },
     "autoload": {
-        "psr-4": { "Badcow\\LoremIpsum\\": "lib/" }
+        "psr-4": { "ebo-one\\LoremIpsum\\": "lib/" }
     }
 }
